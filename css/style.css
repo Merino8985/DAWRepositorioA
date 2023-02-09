@@ -1,0 +1,14 @@
+h1{
+    color: red;
+}
+
+footer{
+    width: 100px;
+    background-color: #7f7b7b;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    border-radius: 25px;
+    margin: 0 auto;
+    box-shadow: 0 0 10px #000;
+}
